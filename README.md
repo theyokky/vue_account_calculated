@@ -1,4 +1,6 @@
-# accounts
+# Yanakorn Jarudejsiri 6210450539
+
+โปรแกรมคำนวณ รายรับ / รายจ่าย พัฒนาด้วย Vue Js Framework
 
 ## Project setup
 ```
