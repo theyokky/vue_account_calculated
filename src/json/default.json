@@ -1,0 +1,12 @@
+{
+    "default_pack":[
+        {"type" : "income", "current" : 100 , "info" : "ค่าขนม" , "date" : "2021-07-12"},
+        {"type" : "income", "current" : 5000 , "info" : "เก็บเงินตก ไม่คืน" , "date" : "2021-07-14"},
+        {"type" : "outcome", "current" : 10000 , "info" : "โดนทวงเงินที่เก็บ" , "date" : "2021-07-18"}
+    ],
+    "total":{
+        "all" : 4900,
+        "income" : 5100,
+        "outcome" : 10000
+    }
+}
