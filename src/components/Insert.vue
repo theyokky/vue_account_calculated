@@ -9,7 +9,7 @@
             <input type="number" v-model="current">
         </div>
         <div class="child">
-            <label for="info">รายละเอียด : </label>
+            <label for="info">หมายเหตุ : </label>
             <input type="text" v-model="info" placeholder="กรอกรายละเอียด (ทางเลือก)">
         </div>
         <div class="child">
